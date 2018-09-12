@@ -1,0 +1,8 @@
+{
+  "app.db":       "var/db/app.db",
+  "app.port":     ":8119",
+  "log.dir":      "var/log",
+  "log.file":     "app.log",
+  "static.dir":   "html/static",
+  "template.dir": "html/template"
+}
